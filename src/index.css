@@ -43,16 +43,18 @@ body {
   margin: 0 0 25px 0;
 }
 .about-me-description {
-  width: 400px;
+  width: 600px;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #201f1f;
 }
 /* my projects section */
 
 .my-projects-section {
+  display: flex;
+  flex-direction: column;
   margin-bottom: 50px;
 }
 .my-projects-list {
@@ -60,14 +62,13 @@ body {
 }
 .my-projects-item {
   color: #000000;
-  font-weight: bold;
 }
 .my-projects-link {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #201f1f;
 }
 
 .my-projects-text {
@@ -75,7 +76,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #201f1f;
   margin-left: 5px;
 }
 .my-projects-bracket {
@@ -103,7 +104,7 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #201f1f;
   margin: 0 0 10px 0;
 }
 .my-work-divider {
@@ -117,7 +118,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #201f1f;
 }
 .my-work-experience-company-block {
   margin: 0 15px 0 0;
@@ -148,15 +149,9 @@ body {
 }
 /* contacts section */
 
-.contacts-section-type {
-  font-size: 14px;
-  font-weight: bold;
-  line-height: 24px;
+.contacts-section-link,
+.contacts-section-text {
   color: #fff;
-  margin-right: 7px;
-}
-.contacts-section-link {
-  color: #565e6a;
   font-size: 14px;
   font-style: normal;
   font-weight: normal;
