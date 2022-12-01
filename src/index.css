@@ -51,6 +51,11 @@ body {
   line-height: 24px;
   color: #000000;
 }
+.about-me-description-skills {
+  color: #3b8ac2;
+  font-weight: bold;
+}
+
 /* my projects section */
 
 .my-projects-section {
@@ -89,7 +94,7 @@ body {
   font-weight: bold;
   font-size: 14px;
   line-height: 24px;
-  color: #000000;
+  color: #3b8ac2;
 }
 /* my work and education experience */
 .my-education-experience,
@@ -152,6 +157,7 @@ body {
   color: floralwhite;
   margin-bottom: 10px;
 }
+
 /* contacts section */
 
 .contacts-section-link {
