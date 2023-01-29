@@ -44,6 +44,7 @@ body {
   margin: 0 0 25px 0;
 }
 .about-me-description {
+  margin: 0;
   width: 600px;
   font-style: normal;
   font-weight: normal;
@@ -61,7 +62,7 @@ body {
 .my-projects-section {
   display: flex;
   flex-direction: column;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 .my-projects-list {
   padding: 0 0 0 18px;
@@ -107,7 +108,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   color: #000000;
-  margin: 0 0 10px 0;
+  margin: 0;
 }
 .my-work-period {
   font-style: normal;
