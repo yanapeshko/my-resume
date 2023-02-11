@@ -72,7 +72,7 @@ body {
 }
 .my-projects-link {
   font-style: normal;
-  font-weight: normal;
+  font-weight: 500;
   font-size: 14px;
   line-height: 24px;
   color: #201f1f;
@@ -125,6 +125,7 @@ body {
   padding: 0 0 0 18px;
 }
 .my-work-experience-duty {
+  list-style-type: none;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -185,7 +186,7 @@ body {
   padding: 0 0 0 17px;
 }
 .tech-skills-item {
-  color: yellow;
+  list-style-type: none;
 }
 .tech-skills-item-text {
   font-style: normal;
@@ -201,7 +202,7 @@ body {
 }
 .soft-skills-item,
 .language-level-item {
-  color: yellow;
+  list-style-type: none;
 }
 .soft-skills-item-text {
   font-style: normal;
