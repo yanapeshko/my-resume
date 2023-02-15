@@ -16,7 +16,7 @@ body {
   padding: 100px 90px;
 }
 .main-content-title {
-  font-style: normal;
+  font-style: bold;
   font-weight: bold;
   font-size: 22px;
   line-height: 27px;
@@ -47,7 +47,7 @@ body {
   margin: 0;
   width: 600px;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 16px;
   line-height: 24px;
   color: #000000;
@@ -69,10 +69,11 @@ body {
 }
 .my-projects-item {
   color: #000000;
+  font-weight: bold;
 }
 .my-projects-link {
   font-style: normal;
-  font-weight: 500;
+  font-weight: bold;
   font-size: 14px;
   line-height: 24px;
   color: #201f1f;
@@ -84,7 +85,7 @@ body {
 }
 .my-projects-text {
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 16px;
   line-height: 24px;
   color: #201f1f;
@@ -112,7 +113,7 @@ body {
 }
 .my-work-period {
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 12px;
   line-height: 15px;
   color: #201f1f;
@@ -127,13 +128,18 @@ body {
 .my-work-experience-duty {
   list-style-type: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 16px;
   line-height: 24px;
   color: #201f1f;
 }
 .my-work-experience-company-block {
   margin: 0 15px 0 0;
+}
+.my-education-period {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
 }
 
 /* sidebar section */
@@ -183,7 +189,7 @@ body {
 }
 /* tech skills section */
 .tech-skills-list {
-  padding: 0 0 0 17px;
+  padding: 0;
 }
 .tech-skills-item {
   list-style-type: none;
