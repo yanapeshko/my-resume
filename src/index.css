@@ -53,7 +53,7 @@ body {
   color: #000000;
 }
 .about-me-description-skills {
-  color: #3b8ac2;
+  color: #9c9ea0;
   font-weight: normal;
 }
 
@@ -81,7 +81,7 @@ body {
 }
 .my-projects-link:hover {
   font-weight: normal;
-  color: #3b8ac2;
+  color: #9c9ea0;
 }
 .my-projects-text {
   font-style: normal;
@@ -96,12 +96,12 @@ body {
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  color: #3b8ac2;
+  color: #9c9ea0;
 }
 /* my work and education experience */
 .my-education-experience,
 .my-work-experience-company {
-  color: #3b8ac2;
+  color: #9c9ea0;
   margin-bottom: 0;
 }
 .my-work-experience-position {
@@ -148,7 +148,7 @@ body {
 /* sidebar section */
 
 .sidebar-section {
-  background: #3b8ac2;
+  background: #9c9ea0;
   width: 370px;
   padding: 40px;
 }
